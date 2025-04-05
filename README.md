@@ -1,2 +1,2 @@
 # SDP
-SDP skill development
+SDP (skill development program)
